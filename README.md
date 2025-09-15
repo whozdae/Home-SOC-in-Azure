@@ -1,7 +1,7 @@
 # Building a Home SOC in Azure with Microsoft Sentinel
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 In this project, I built a basic home Security Operations Center (SOC) from scratch in Microsoft Azure. I created a virtual machine (VM) and intentionally exposed it to the internet as a honeypot to collect real-world attack data. I then forwarded security logs into a centralized repository and integrated Microsoft Sentinel to analyze and visualize attack patterns.
 
@@ -14,7 +14,7 @@ In this project, I built a basic home Security Operations Center (SOC) from scra
 * Practical SOC operations — from log ingestion to attack mapping
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
